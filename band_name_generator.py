@@ -6,3 +6,5 @@ city = input("What city you grow up in? \n")
 pet = input("what is the name of your pet? \n")
 #4. Combine the name of their city and pet and show them their band name.
 print("The name of your band would be " +city + " " + pet)
+
+# here we have learned about varialbe, input, length and print function
