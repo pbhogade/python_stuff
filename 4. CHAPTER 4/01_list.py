@@ -13,4 +13,3 @@ print(a)
 
 # We can create a list with items of different types 
 c = [45, "praveen", False, 6.9]
-
